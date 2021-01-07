@@ -21,7 +21,7 @@ itsdangerous==0.24
 jieba==0.38
 Jinja2==2.8
 linecache2==1.0.0
-lxml==3.7.2
+lxml==4.6.2
 MarkupSafe==0.23
 meld3==1.0.2
 MySQL-python==1.2.5
