@@ -19,7 +19,7 @@ gunicorn==19.6.0
 hashids==0.8.4
 itsdangerous==0.24
 jieba==0.38
-Jinja2==2.8
+Jinja2==2.11.3
 linecache2==1.0.0
 lxml==3.7.2
 MarkupSafe==0.23
