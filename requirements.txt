@@ -38,7 +38,7 @@ raven==5.32.0
 redis==2.10.5
 six==1.10.0
 SQLAlchemy==1.0.14
-supervisor==3.3.1
+supervisor==3.3.3
 traceback2==1.4.0
 unittest2==1.1.0
 urllib3==1.19.1
